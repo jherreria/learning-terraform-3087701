@@ -4,5 +4,5 @@ variable "instance_type" {
 }
 variable "borrame" {
   description = "Solo probando cosads"
-  default="DeleteMe"
+  default="t3.nano"
 }
